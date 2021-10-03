@@ -1,3 +1,11 @@
+/**
+ * @author Celso Júnior Degasperi
+ * @email cj.degasperi@gmail.com
+ * @create date 2021-10-02 23:28:50
+ * @modify date 2021-10-02 23:28:50
+ * @desc Entity User
+ */
+
 import {
   Entity,
   PrimaryColumn,
