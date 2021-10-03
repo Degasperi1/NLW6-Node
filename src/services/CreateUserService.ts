@@ -1,3 +1,11 @@
+/**
+ * @author Celso Júnior Degasperi
+ * @email cj.degasperi@gmail.com
+ * @create date 2021-10-02 23:21:34
+ * @modify date 2021-10-02 23:21:34
+ * @desc Service that handles the CreateUser requests
+ */
+
 import { getCustomRepository } from 'typeorm';
 import { UsersRepositories } from '../repositories/UserRepositories';
 
