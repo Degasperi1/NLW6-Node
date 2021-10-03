@@ -160,6 +160,10 @@ dist
 .yarn/install-state.gz
 .pnp.\*
 
+# TypeORM
+
+ormconfig.json
+
 ### VisualStudioCode
 
 .vscode/_
