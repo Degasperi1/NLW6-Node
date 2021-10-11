@@ -30,6 +30,9 @@ class User {
   @Column()
   admin: boolean;
 
+  @Column()
+  password: string;
+
   @CreateDateColumn({ name: 'created_at' })
   createdAt: Date;
 
